@@ -39,5 +39,5 @@ Whole Slide Image (WSI) analysis plays a crucial role in modern digital patholog
 ```
 ---
 ## Data
-Please replace the "example" folder with this link:[link for the example data](https://vanderbilt.box.com/s/29ceofv5fd0qsxl10iprpsl1zosdi7q1)    
+Please replace the "example" folder with this [link](https://vanderbilt.box.com/s/29ceofv5fd0qsxl10iprpsl1zosdi7q1)    
 
