@@ -1,7 +1,5 @@
 # PySpatial: A High-Speed Whole Slide Image Pathomics Toolkit
 
-**A streamlined toolkit for direct WSI-level feature extraction, leveraging spatial indexing and matrix-based computation for up to 10× speedups on small objects and 2× on larger ones.**
-
 Paper: [arXiv:2501.06151](https://arxiv.org/abs/2501.06151)
 
 ---
